@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="uft-8"?>
+<!DOCTYPE lista>
+<alimentos>
+   <legumbres> 
+        <garbanzos tipo="cocidos" calorias="1090"/>
+        <lentejas tipo="estofadas" calorias="690"/>
+        <alubias tipo="pintas" calorias="285"/>
+    </legumbres> 
+    <verduras>
+        <esparragos tipo="cocidos" calorias="15"/>
+        <pimientos tipo="asados" calorias="55"/>
+        <berenjenas tipo="parrilla" calorias="28"/>
+    </verduras>
+    <pescados>
+        <calamares tipo="fritos" calorias="118"/>
+        <anchoas tipo="en aceite" calorias="185"/>
+        <merluza tipo="plancha" calorias="92"/>
+    </pescados>
+</alimentos>

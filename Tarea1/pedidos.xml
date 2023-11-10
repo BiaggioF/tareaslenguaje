@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="uft-8"?>
+<!DOCTYPE pedido>
+<pedido>
+    <cliente>pedro martin martinez</cliente>
+    <articulo>samsung galaxy tab A8</articulo>
+    <direccion-entrega>calle virgen de la cruz 2, septimo piso, letra A</direccion-entrega>
+    <fecha-entrega>17-10-2022</fecha-entrega>
+</pedido>

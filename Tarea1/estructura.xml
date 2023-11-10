@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="uft-8"?>
+<!DOCTYPE pedido>
+<mail>
+    <destinatario>
+        <nombre>
+        </nombre>
+        <correo>
+        </correo>
+    </destinatario>
+    <remitente>
+        <nonbre>
+        </nonbre>
+        <correo>
+        </correo>
+    </remitente>
+    <asunto></asunto>
+    <texto>
+        <parrafo>
+        </parrafo>
+    </texto>
+</mail>
